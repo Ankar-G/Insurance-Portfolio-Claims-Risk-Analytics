@@ -1,0 +1,101 @@
+Agent_ID,Agent_Name,Agent_Type,Region,Experience_Years,Policies_Sold,Premium_Generated,Agent_Status
+A0001,Vihaan Chandra,Individual Agent,East,14,88,3420520.0,Active
+A0002,Ajay Joshi,Bancassurance Partner,Northeast,10,84,3331500.0,Active
+A0003,Amit Anand,Broker,West,22,4,119450.0,Inactive
+A0004,Vihaan Patel,Individual Agent,South,16,109,4059040.0,Active
+A0005,Vihaan Arora,Corporate Agent,South,12,83,3446480.0,Active
+A0006,Kiran Rathore,Individual Agent,Central,3,106,3891940.0,Active
+A0007,Saanvi Bhatt,Corporate Agent,South,21,92,4066610.0,Active
+A0008,Riya Mukherjee,Individual Agent,South,9,81,2576240.0,Active
+A0009,Yash Shah,Individual Agent,North,7,96,3758730.0,Active
+A0010,Meera Mishra,Bancassurance Partner,East,9,86,3730240.0,Active
+A0011,Kavya Solanki,Corporate Agent,West,16,109,4461600.0,Active
+A0012,Girish Patel,Broker,Central,5,4,135530.0,Inactive
+A0013,Simran Bhatia,Individual Agent,South,15,108,4902160.0,Active
+A0014,Reyansh Saxena,Individual Agent,South,12,86,3617400.0,Active
+A0015,Divya Kulkarni,Individual Agent,South,8,86,3335900.0,Active
+A0016,Girish Mukherjee,Bancassurance Partner,West,18,90,3169260.0,Active
+A0017,Preeti Pandey,Broker,East,7,81,3147200.0,Active
+A0018,Rakesh Trivedi,Individual Agent,Northeast,14,90,3415660.0,Active
+A0019,Gaurav Chopra,Individual Agent,Northeast,6,78,3517430.0,Active
+A0020,Ramesh Rana,Individual Agent,West,9,87,3395760.0,Active
+A0021,Kiran Srivastava,Individual Agent,East,16,89,3308860.0,Active
+A0022,Vijay Subramaniam,Corporate Agent,North,20,77,2908820.0,Active
+A0023,Aarti Mukherjee,Individual Agent,North,10,64,2260590.0,Active
+A0024,Aakash Iyer,Corporate Agent,Northeast,22,69,2608090.0,Active
+A0025,Sonal Jadhav,Individual Agent,Northeast,11,95,3497180.0,Active
+A0026,Swati Banerjee,Individual Agent,South,3,89,3688910.0,Active
+A0027,Sandeep Chandra,Corporate Agent,Central,6,94,3258720.0,Active
+A0028,Aarti Pandey,Individual Agent,South,8,82,3115890.0,Active
+A0029,Parth Patel,Individual Agent,North,11,5,152730.0,Inactive
+A0030,Ashok Aggarwal,Individual Agent,South,17,82,3449380.0,Active
+A0031,Pooja Tiwari,Individual Agent,West,12,80,3526150.0,Active
+A0032,Vidya Arora,Individual Agent,North,12,93,3852390.0,Active
+A0033,Rakesh Nayak,Individual Agent,Northeast,10,87,3181800.0,Active
+A0034,Kavita Das,Individual Agent,West,13,3,85970.0,Inactive
+A0035,Rudra Sharma,Corporate Agent,Northeast,3,88,3248580.0,Active
+A0036,Pihu Bhatt,Individual Agent,South,10,90,3106310.0,Active
+A0037,Saurabh Raut,Bancassurance Partner,Northeast,9,92,3733960.0,Active
+A0038,Ashok Pandey,Broker,South,12,107,4790610.0,Active
+A0039,Sameer Malhotra,Corporate Agent,North,16,86,3287780.0,Active
+A0040,Rajiv Jadhav,Broker,East,6,104,3598790.0,Active
+A0041,Ishaan Chatterjee,Broker,Central,6,77,2876700.0,Active
+A0042,Rahul Solanki,Individual Agent,West,8,89,3726430.0,Active
+A0043,Suresh Joshi,Bancassurance Partner,Northeast,5,91,3714700.0,Active
+A0044,Lata Banerjee,Individual Agent,Central,13,97,3232410.0,Active
+A0045,Ritu Prasad,Corporate Agent,Central,16,82,3580960.0,Active
+A0046,Kunal Dubey,Bancassurance Partner,Northeast,5,93,3492260.0,Active
+A0047,Harleen Kamble,Broker,Central,12,113,4714020.0,Active
+A0048,Anita Chatterjee,Broker,South,16,1,19800.0,Inactive
+A0049,Yash Verma,Corporate Agent,Central,7,3,56600.0,Inactive
+A0050,Ajay Sharma,Broker,North,12,92,3554070.0,Active
+A0051,Vijay Singh,Broker,North,25,103,4236130.0,Active
+A0052,Anjali Kapoor,Broker,South,13,85,3221170.0,Active
+A0053,Nandini Iyer,Individual Agent,Central,17,103,4225160.0,Active
+A0054,Advait Chatterjee,Individual Agent,West,13,82,3168290.0,Active
+A0055,Manisha Shah,Broker,North,10,94,3874450.0,Active
+A0056,Nidhi Chauhan,Corporate Agent,West,13,89,3596690.0,Active
+A0057,Priya Srivastava,Corporate Agent,Northeast,14,92,3521700.0,Active
+A0058,Ishaan Dubey,Bancassurance Partner,Northeast,6,4,172410.0,Inactive
+A0059,Sunita Chatterjee,Individual Agent,South,9,3,239340.0,Inactive
+A0060,Dhruv Joshi,Bancassurance Partner,West,15,8,288340.0,Inactive
+A0061,Prakash Rana,Individual Agent,South,6,91,3674090.0,Active
+A0062,Aryan Krishnan,Broker,Central,4,4,87150.0,Inactive
+A0063,Krishna Jain,Individual Agent,Central,6,3,109940.0,Inactive
+A0064,Amit Prasad,Broker,South,11,78,2553090.0,Active
+A0065,Bhavesh Malhotra,Broker,West,18,89,3415570.0,Active
+A0066,Arvind Kamble,Bancassurance Partner,North,18,67,2638270.0,Active
+A0067,Girish Sharma,Broker,West,14,98,4485330.0,Active
+A0068,Jaya Das,Corporate Agent,West,9,84,2764640.0,Active
+A0069,Nisha Menon,Corporate Agent,East,15,98,3800780.0,Active
+A0070,Ishaan Anand,Broker,Northeast,15,92,3269430.0,Active
+A0071,Aakash Kumar,Corporate Agent,North,4,99,3856840.0,Active
+A0072,Pihu Naidu,Individual Agent,Central,7,85,3619440.0,Active
+A0073,Ishaan Kapoor,Corporate Agent,North,15,99,4484370.0,Active
+A0074,Rohan Bansal,Individual Agent,North,2,96,3202360.0,Active
+A0075,Arvind Mehta,Bancassurance Partner,Central,12,94,3762450.0,Active
+A0076,Reyansh Agarwal,Individual Agent,North,14,73,3031270.0,Active
+A0077,Aditi Prasad,Broker,East,16,80,3287030.0,Active
+A0078,Aakash Chatterjee,Corporate Agent,East,5,86,3188350.0,Active
+A0079,Rekha Saxena,Individual Agent,Northeast,17,87,2861710.0,Active
+A0080,Jaya Bose,Individual Agent,North,20,86,2938070.0,Active
+A0081,Rudra Agarwal,Broker,Central,7,91,4265680.0,Active
+A0082,Karan Chopra,Individual Agent,South,6,92,3979920.0,Active
+A0083,Rekha Prasad,Corporate Agent,East,10,85,4052200.0,Active
+A0084,Naveen Pandey,Corporate Agent,East,8,91,2997750.0,Active
+A0085,Aryan Raut,Individual Agent,Central,11,89,3385460.0,Active
+A0086,Aadhya Saxena,Bancassurance Partner,Central,12,78,3496570.0,Active
+A0087,Sunita Sinha,Corporate Agent,South,7,83,3679170.0,Active
+A0088,Kavita Jadhav,Bancassurance Partner,North,28,76,3521240.0,Active
+A0089,Rakesh Das,Individual Agent,Central,3,102,3890660.0,Active
+A0090,Yash Iyer,Broker,Northeast,12,87,3158760.0,Active
+A0091,Pihu Malhotra,Individual Agent,East,7,79,2666010.0,Active
+A0092,Amit Aggarwal,Broker,West,13,88,3922640.0,Active
+A0093,Kavya Sharma,Individual Agent,East,7,98,3912430.0,Active
+A0094,Sandeep Reddy,Individual Agent,Northeast,15,92,3210780.0,Active
+A0095,Ekta Arora,Bancassurance Partner,North,14,84,3085340.0,Active
+A0096,Karan Sinha,Individual Agent,Northeast,9,78,2542890.0,Active
+A0097,Arjun Raut,Broker,East,18,99,4761110.0,Active
+A0098,Kabir Joshi,Bancassurance Partner,North,15,100,3890880.0,Active
+A0099,Simran Kamble,Bancassurance Partner,North,9,92,3237910.0,Active
+A0100,Sneha Srivastava,Individual Agent,South,11,102,4253340.0,Active
